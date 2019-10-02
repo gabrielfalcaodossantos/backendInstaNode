@@ -123,3 +123,5 @@ typings/
 .history
 
 # End of https://www.gitignore.io/api/git,node,chocolatey,visualstudiocode
+uploads/*.jpg
+!uploads/resized/.empty
